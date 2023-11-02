@@ -44,9 +44,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   
   "protectedRoutes": [
-  "/🌞 Private folder/u-need-a-password",
-  "/Drakor23/PASSWORD",
-  "/🥟 Some test files/Protected route"
+  "/Drakor23/*2019",
 ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
