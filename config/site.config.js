@@ -45,6 +45,7 @@ module.exports = {
   
   "protectedRoutes": [
   "/🌞 Private folder/u-need-a-password",
+  "/Drakor23/PASSWORD",
   "/🥟 Some test files/Protected route"
 ],
 
